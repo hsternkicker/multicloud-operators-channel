@@ -4,6 +4,8 @@
 build/_output
 build/_test
 
+build-harness
+build-harness-extensions
 .build-harness
 .build-harness-bootstrap
 OPENSOURCE.check
